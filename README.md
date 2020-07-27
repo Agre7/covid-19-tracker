@@ -21,10 +21,10 @@ git@2.17.1 or higher
 
 ---
 
-##Screenshots
+## Screenshots
 
-<img src="Capture.png"/>
-<img src="Capture2.png"/>
+<img src="capture.png" width="60%" height="60%" />
+<img src="capture2.png"/>
 
 
 ---
