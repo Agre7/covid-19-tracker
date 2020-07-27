@@ -21,6 +21,15 @@ git@2.17.1 or higher
 
 ---
 
+##Screenshots
+
+<img src="Capture.png"/>
+<img src="Capture2.png"/>
+
+
+---
+
+
 ## Development
 
 To setup the app for development on your local machine, please follow the instructions below:
